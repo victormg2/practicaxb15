@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Crear una imágen de acuerdo al valor del pixel</h1>
+        <h1>victor miguel garcia garcia</h1>
         <h2>Código de color: 0: morado 1:black 2:celeste 3:azul 4:verde 5:amarillo 6:rojo</h2>
     </header>
     <main>
